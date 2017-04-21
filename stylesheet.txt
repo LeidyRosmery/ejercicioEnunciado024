@@ -1,5 +1,5 @@
 .sprite {
-    background-image: url('../img/spritesheet.png');
+    background-image: url(spritesheet.png);
     background-repeat: no-repeat;
     display: block;
 }
@@ -29,9 +29,9 @@
 }
 
 .sprite-logo {
-  width: 285px;
-  height: 60px;
-  background-position: -1px -442px;
+    width: 281px;
+    height: 49px;
+    background-position: -5px -451px;
 }
 
 .sprite-odebrecht {
